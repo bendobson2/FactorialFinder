@@ -4,6 +4,7 @@ class FactorialFinder
 {
     static void Main()
     {
+        Console.WriteLine("ayyyy lmaooooololol");
         Console.WriteLine("Please input any integer value above one.");
         int inputtedNum = Int32.Parse(Console.ReadLine()); //inputting the # 
         while (inputtedNum < 1) //making sure the inputted # is valid.
